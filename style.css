@@ -33,8 +33,10 @@ footer {
     color: #52748c;
 }
 
-.centerul {
+li {
+
     width: fit-content;
     margin: 0 auto;
     text-align: left;
+    
 }
