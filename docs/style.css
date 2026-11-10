@@ -15,8 +15,6 @@ header {
     background: linear-gradient(#4da9e8, #176da9);
     color: white;
     padding: 25px;
-    max-width: none;
-    width: 100%;
 }
 
 .navbar {
