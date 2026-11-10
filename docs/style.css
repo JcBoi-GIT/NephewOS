@@ -3,18 +3,12 @@ body {
     margin: 0 auto;
     max-width: 1100px;
     text-align: center;
+    font-family: sans-serif;
+    text-align: center;
 }
 
 html {
     scroll-behavior: smooth;
-}
-
-.sansserif {
-    font-family: sans-serif;
-}
-
-.centertxt {
-    text-align: center;
 }
 
 header {
