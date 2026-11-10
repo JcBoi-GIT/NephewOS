@@ -16,6 +16,7 @@ header {
     color: white;
     padding: 25px;
     max-width: none;
+    width: 100%;
 }
 
 .navbar {
